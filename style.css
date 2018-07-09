@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: "Sawarabi Mincho";
+  background-color: #000;
+  text-align: center;
+}
+
+#defaultCanvas0 {
+  margin: 250 auto 0;
+}
+
+.wf-sawarabimincho { font-family: "Sawarabi Mincho"; }
